@@ -19,8 +19,8 @@ user chooses the desired operation by inputing numbers. The main menu has eight 
 7) Analyze (sort)
 8) Exit
 
-For several operations, sub-operations exist such that the user can also track expenses under
-each sub-category of their purchases.
+For several operations, sub-operations exist such that the user can also manage and track 
+expenses under each sub-category of their purchases.
 
 The features of each operation is described as below:
 
