@@ -53,7 +53,7 @@ After a category is selected, all the purchases previously entered in a particul
 are shown on the screen. In addition, the program tallies the overall expenses of this sub-
 category. If the user selects option 5 (All), the program lists every purchase the user added
 and sums up all expenses regardless of sub-category. The display follows a standard format:
-First, the category is shown as "category:". Then, the items are listed in the order of entry,
+First, the sub-category is shown as "category:". Then, the items are listed in the order of entry,
 and in the format "item $price", where price is displayed to two digits after the decimal point.
 Finally, the sum of all expenses in the particular sub-category is displayed. The program prompts
 the user continuously and will display relevant information until the user enters 6 (Back), where
